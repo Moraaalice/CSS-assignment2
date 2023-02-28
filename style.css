@@ -1,0 +1,123 @@
+.Home{
+    background-image: url(/pictures/image3.jpg);
+    background-size: 100%;
+    background-position: center;
+    width: 100%;
+    height: 900px;
+
+}
+.navbar{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    float: left 90px;
+    margin-left: 40px;
+
+
+}
+.home2{
+    top: 30%;
+    text-align: center;
+    float: left;
+    transform: translate(-50% -50%);
+    position: relative;
+    margin-top: -700px;
+    margin-left: 350px;
+
+}
+.button{
+    padding: 8px;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+.button2{
+    padding: 8px;
+    background-color: lightcoral;
+    border-radius: 5px;
+}
+.image2{
+    margin-top: -270px;
+    margin-left: 500px;
+
+}
+.image3{
+    margin-left: 800px;
+    margin-top: -280px;
+    padding: 10px;
+}
+.image1{
+    margin-left: 200px;
+    float: left 300px;
+    padding: 10px;
+    
+}
+.button3{
+    padding: 5px;
+    border-radius: 40px;
+    margin-left: 550px;
+    background-color: brown;
+    margin-bottom: 50px;
+}
+.images{
+    margin-left: 400px;
+    float: left;
+}
+.button4{
+    padding: 5px;
+    border-radius: 10px;
+    background-color: brown;
+    margin-left: 550px;
+}
+.image4{
+    margin-left: 765px;
+    margin-top: -500px;
+    top: 200px;
+}
+.last{
+    font-size: smaller;
+    margin-left: 410px;
+}
+.last1{
+    margin-left: 400px;
+}
+.header{
+    margin-left: 150px;
+}
+.last2{
+    margin-left: 530px;
+}
+.line1{
+    display: flex;
+    list-style: none;
+    gap: 200px;
+}
+.line2{
+    display: flex;
+    list-style: none;
+    gap: 200px;
+}
+.line3{
+    display: flex;
+    gap: 180px;
+    list-style: none;
+}
+footer{
+    background-color: lightblue;height: 250px;
+}
+.header2{
+    background-color: pink;width: 220px;
+    border-radius: 120px;
+}
+.button5{
+    padding: 5px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.email{
+    padding: 5px;
+    border-radius: 10px;
+}
+.Alice{
+    gap: 20px;
+    margin-left: 40px;
+}
